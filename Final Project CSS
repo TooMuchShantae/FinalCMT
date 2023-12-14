@@ -1,0 +1,9 @@
+.Rectangle_1 {
+  background-image: url("Rectangle 1.png");
+  position: absolute;
+  left: 88px;
+  top: 172px;
+  width: 1750px;
+  height: 866px;
+  z-index: 2;
+}
